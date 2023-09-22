@@ -1,0 +1,5 @@
+![alt text](https://github.com/Skorp712/gitlab/blob/master/gitlab/1.png)
+![alt text](https://github.com/Skorp712/gitlab/blob/master/gitlab/2.png)
+![alt text](https://github.com/Skorp712/gitlab/blob/master/gitlab/3.png)
+![alt text](https://github.com/Skorp712/gitlab/blob/master/gitlab/4.png)
+![alt text](https://github.com/Skorp712/gitlab/blob/master/gitlab/5.png)
